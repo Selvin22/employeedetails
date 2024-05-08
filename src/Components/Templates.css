@@ -1,0 +1,107 @@
+.sidemenu{
+    margin-left: 0px;
+   
+}
+.btn{
+    margin-left: 0px;
+    text-align: end;
+}
+.box1{
+   
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 1px;
+    background-color:rgb(237, 96, 8) ;
+    border: 1px solid rgb(217, 227, 222);
+    width: 250px;
+    height: 120px;
+    color: aliceblue;
+
+}
+.box2{
+   margin-left: 20px;
+    background-color:rgb(9, 223, 77) ;
+    border: 1px solid rgb(217, 227, 222);
+    width: 280px;
+    height: 120px;
+    color: aliceblue;
+    float: left;
+    margin-top:10px ;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.box3{
+    margin-left: 50px;
+     background-color:rgb(234, 59, 23) ;
+     border: 1px solid rgb(217, 227, 222);
+     width: 280px;
+     height: 120px;
+     color: aliceblue;
+     float: left;
+     margin-top:10px ;
+     padding-left: 20px;
+     padding-top: 20px;
+     
+ }
+ .box4{
+    margin-left: 30px;
+     background-color:rgb(35, 81, 234) ;
+     border: 1px solid rgb(217, 227, 222);
+     width: 280px;
+     height: 120px;
+     color: aliceblue;
+     float: left;
+     margin-top:10px ;
+     padding-left: 20px;
+     padding-top: 20px;
+     
+ }
+ #myChart{
+    max-width: 70wh;
+    max-height: 70vh;
+    
+
+ }
+ #head{
+    margin-left: 16%;
+ }
+/* #header{
+   margin-top: 1%;
+    margin-left: 81%;
+   margin-bottom: 20px;
+   box-sizing: border-box;
+   height: 200px;
+   width:270px;
+   border: 1px solid rgb(212, 87, 28);
+   line-height: 60px;
+
+ }  */
+ .graph-container{
+    margin-right: 5px;
+ }
+
+ #header {
+    position: absolute;
+    top:28px;
+    right: 30px; /* Adjust the value based on your preference */
+    border: 2px solid rgb(216, 211, 208);
+    height: 230px;
+    width: 240px;
+    background-color: rgb(104, 181, 153);
+    margin-top: 200px;
+    margin-right: 20px;
+ }
+ #value{
+    padding-bottom: 10px;
+ } 
+ .register-container{
+     height: 100px ;
+     min-width:50vh ;
+ }
+.textcenter{
+   margin-left: 50px;
+   padding-left:50px ;
+   text-align: center;
+}
+  

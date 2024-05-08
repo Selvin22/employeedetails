@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    background-color: rgb(123, 164, 164);
+  }
+  
+  .content {
+    flex-grow: 1;
+  }
+  
+  .update-container {
+    margin: auto;
+    width: 60%;
+    padding: 130px;
+  }
+  

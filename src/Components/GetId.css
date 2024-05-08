@@ -1,0 +1,33 @@
+.get-id-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+   
+  }
+  
+ .bg{
+  background-color: rgb(64, 239, 105);
+  width: 1535px;
+  height: 725px;
+  text-align: center;
+  justify-content: center;
+  
+ } 
+ .container {
+  display: flex;
+  margin-left: 0%;
+  padding-left: 0%;
+}
+
+.content {
+  flex: 1;
+}
+
+  .get-id-form {
+  margin-left: 120px; /* Adjust margin as needed */
+  margin-top: 250px;
+  text-align: center;
+} 
+  
+

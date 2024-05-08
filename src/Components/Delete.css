@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+  }
+  
+  .content {
+    flex-grow: 1;
+  }
+  
+  .delete-container {
+    margin: auto;
+    width: 70%;
+    padding: 200px;
+  }
+  
